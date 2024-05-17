@@ -18,9 +18,9 @@ export class ListarPensamentosComponent {
       modelo: 'modelo2'
     },
     {
-      conteudo: 'Minha propriedade é decorada com @input()',
-      autoria: 'componente filho',
-      modelo: 'modelo1'
+      conteudo: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fu',
+      autoria: 'Um doido',
+      modelo: 'modelo2'
     }
   ]
 }
