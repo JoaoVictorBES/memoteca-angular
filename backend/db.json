@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Xu",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Que bom que você não veio",
+      "autoria": "Xu",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Que bom que você talvez vá",
+      "autoria": "Xu",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "logo logo to monstro",
+      "autoria": "eu",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "logo logo to monstro",
+      "autoria": "eu",
+      "modelo": "modelo2",
+      "id": 5
+    },
+    {
+      "conteudo": "Hoje vai ser melhor do que ontem e pior que amanhã",
+      "autoria": "Xu",
+      "modelo": "modelo3",
+      "id": 6
+    }
+  ]
+}
