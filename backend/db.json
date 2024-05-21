@@ -19,22 +19,10 @@
       "modelo": "modelo3"
     },
     {
-      "conteudo": "logo logo to monstro",
-      "autoria": "eu",
-      "modelo": "modelo2",
-      "id": 4
-    },
-    {
-      "conteudo": "logo logo to monstro",
-      "autoria": "eu",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "Hoje vai ser melhor do que ontem e pior que amanhã",
-      "autoria": "Xu",
+      "conteudo": "hoje eu sou melhor que ontem",
+      "autoria": "dev da madruga",
       "modelo": "modelo3",
-      "id": 6
+      "id": 4
     }
   ]
 }
